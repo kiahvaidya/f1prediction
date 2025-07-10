@@ -9,6 +9,7 @@ This project uses historical F1 qualifying and race data powered by the [FastF1]
 - Predicts top 3 finishers of a Grand Prix using the qualifying session data.
 - Leverages real-time telemetry and session data from FastF1.
 - Uses machine learning classification (scikit-learn GradientBoostingClassifier).
+- Evaluates the model using standard classification metrics.
 
 ---
 
@@ -19,7 +20,15 @@ This project uses historical F1 qualifying and race data powered by the [FastF1]
 - Encodes categorical variables (driver, team, tyre compound, event)
 - Predicts final race positions
 - Outputs top 3 predicted finishers
-
+- Trains and evaluates model using:
+  - **Accuracy**
+  - **Precision**
+  - **Recall**
+  - **F1-score**
+  - **Support**
+ 
+  
 ---
+## 🚀 Conclusion
 
 
