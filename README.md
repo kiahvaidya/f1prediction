@@ -29,6 +29,11 @@ This project uses historical F1 qualifying and race data powered by the [FastF1]
  
   
 ---
-## 🚀 Conclusion
+## 🖇 Conclusion
+🏁 Predicted Podium for 2025 British Grand Prix:
+    Driver             Team  PredictedPosition
+     PIA            McLaren                  3
+     VER    Red Bull Racing                  4
+     STR       Aston Martin                  4
 
 
