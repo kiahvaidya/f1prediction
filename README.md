@@ -1,6 +1,6 @@
 # 🏎️ F1 Podium Prediction Using FastF1 & Machine Learning
 
-This project uses historical F1 qualifying and race data powered by the [FastF1](https://theoehrly.github.io/Fast-F1/) library and a Gradient Boosting Classifier to predict podium finishers (P1, P2, P3) for upcoming Formula 1 races.
+This project uses historical F1 qualifying and race data powered by the [FastF1](https://theoehrly.github.io/Fast-F1/) library and a Gradient Boosting Classifier to predict podium finishers for upcoming Formula 1 races.
 
 ---
 
