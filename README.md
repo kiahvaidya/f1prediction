@@ -1,4 +1,4 @@
-# 🏎️ [F1 Podium Predictor](https://f1prediction.onrender.com/) Using FastF1 & Machine Learning
+# 🏎️ F1 Podium Prediction Using FastF1 & Machine Learning
 
 This project uses historical F1 qualifying and race data powered by the [FastF1](https://theoehrly.github.io/Fast-F1/) library and a Random Forest Regressor to predict podium finishers for upcoming Formula 1 races.
 
@@ -27,6 +27,7 @@ This project uses historical F1 qualifying and race data powered by the [FastF1]
   
 ---
 ## 🖇 Conclusion
+[Visit now!!](https://f1prediction.onrender.com/)
 ## 🏁 Predicted Podium for 2025 Hungarian Grand Prix
 
 | Driver | Team              | Predicted Position |
