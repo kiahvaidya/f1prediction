@@ -20,7 +20,6 @@ team_enc.fit(train_df["Team"])
 compound_enc.fit(train_df["Compound"])
 event_enc.fit(train_df["EventName"])
 
-fastf1.Cache.enable_cache("cache_dir")  
 
 def fetch_and_preprocess(gp_name, year):
     
