@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>F1 Race Predictor</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Orbitron:wght@400;700&family=Exo+2:wght@600;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
@@ -21,10 +22,12 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      font-family: 'Bebas Neue', sans-serif;
     }
     header img {
       height: 40px;
       margin-right: 15px;
+      font-family: 'Orbitron', sans-serif;
     }
     header h1 {
       font-size: 24px;
@@ -52,6 +55,7 @@
       font-size: 20px;
       margin-bottom: 20px;
       font-weight: 600;
+      font-family: 'Exo 2', sans-serif;
     }
     .predict-form form {
       display: flex;
@@ -188,7 +192,6 @@
           <div class="team-name">{{ first.Team if first else "" }}</div>
           <div class="driver-info">Rank: 1</div>
         </div>
-
 
         <div class="driver-card third" data-rank="3">
           <div class="driver-name">{{ third.Driver if third else "-" }}</div>
